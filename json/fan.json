@@ -1,0 +1,440 @@
+{
+  "sites": [
+    {
+      "key": "点我切源",
+      "name": "饭太硬自改 覆盖spider",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "MTV1",
+      "name": "🎙️易听音乐",
+      "type": 3,
+      "api": "csp_MusicGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "playerType": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "光影",
+      "name": "🌞光影┃不卡",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
+    },
+    {
+      "key": "原创",
+      "name": "👒原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyzGuard",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "海绵",
+      "name": "🐬海绵┃不卡",
+      "type": 3,
+      "api": "csp_HmysGuard",
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "立播",
+      "name": "🌟立播┃不卡",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "siteUrl": "https://www.libvio.pw/"
+      }
+    },
+    {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "比特",
+      "name": "🍄比特┃不卡",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "奶酪",
+      "name": "🧀奶酪┃秒播",
+      "type": 3,
+      "api": "csp_T4Guard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+    },
+    {
+      "key": "热播",
+      "name": "📺热播┃多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "视界",
+      "name": "🌸茉莉┃多线",
+      "type": 3,
+      "api": "csp_App99Guard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
+    },
+    {
+      "key": "播客",
+      "name": "🦊播客┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
+    },
+    {
+      "key": "剧圈",
+      "name": "🐻剧圈┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+    {
+      "key": "荐片",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixVGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+    {
+      "key": "咕咕",
+      "name": "🦉咕咕┃动漫",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+    },
+    {
+      "key": "看球",
+      "name": "⚽八八┃看球",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "多多",
+      "name": "🏀多多┃看球",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "alllive",
+      "name": "🎮一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔合集┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
+    }
+  ],
+  "parses": [],
+  "lives": [
+    {
+      "name": "fan-综合直播",
+      "type": 0,
+      "url": "http://193.123.86.190:14888/TV/iptv.php",
+      "ua": "bingcha/1.1 (mianfeifenxiang)",
+      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
+      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "playerType": 2
+    },
+    {
+      "name": "47.120.41.246 速度快",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
+      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz"
+    },
+    {
+      "name": "土豆电视 速度快",
+      "type": 0,
+      "url": "https://13868.kstore.space/ysj/ext/tdzb.txt",
+      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
+      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "timeout": 10
+    },
+    {
+      "name": "土豆-EasyTVbox 快 多地",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
+      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "timeout": 10
+    },
+    {
+      "name": "土豆易发yiyifaf 快 多国+点播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
+      "epg": "https://tv.mxdyeah.top/epgphp/t.xml",
+      "timeout": 10
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
+  ],
+  "doh": [
+    {
+      "name": "腾讯",
+      "url": "https://1.12.12.12/dns-query",
+      "ips": [
+        "119.29.29.29",
+        "2402:4e00::"
+      ]
+    },
+    {
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query",
+      "ips": [
+        "223.5.5.5",
+        "223.6.6.6"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "ads": [],
+  "proxy": [
+    "raw.githubusercontent.com",
+    "googlevideo.com",
+    "cdn.v82u1l.com",
+    "cdn.iz8qkg.com",
+    "cdn.kin6c1.com",
+    "c.biggggg.com",
+    "c.olddddd.com",
+    "haiwaikan.com",
+    "www.histar.tv",
+    "youtube.com",
+    "uhibo.com",
+    ".*boku.*",
+    ".*nivod.*",
+    ".*ulivetv.*",
+    "188766.xyz",
+    "4gtv.tv",
+    "iill.top"
+  ],
+  "rules": [
+    {
+      "name": "cdn.ryplay",
+      "hosts": [
+        "cdn.ryplay"
+      ],
+      "regex": [
+        "5.480000",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    }
+  ],
+  "ijk": [],
+  "spider": "https://18006.kstore.space/spider/fan-spider.jar",
+  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+  "notice": "自用自存不商用 260826",
+  "hosts": [
+    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
+    "fiizvfck.top=fan.cloudflare.182682.xyz",
+    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
+  ],
+  "logo": "https://18006.kstore.space/logo2.jpg"
+}
