@@ -15,7 +15,7 @@ https://seep.eu.org/https://raw.githubusercontent.com/99popo/tvbox18006/main/jso
 ## xiaomi.json 小米 模板（有GO文件）
 https://18006.kstore.space/xiaomi.json **【主更新】**
 
-https://seep.eu.org/https://raw.githubusercontent.com/99popo/tvbox18006/main/json/小米.json  **【备用 非及时更新】**
+https://seep.eu.org/https://raw.githubusercontent.com/99popo/tvbox18006/main/json/xiaomi.json  **【备用 非及时更新】**
 
 
 
