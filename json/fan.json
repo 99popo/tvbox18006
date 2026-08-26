@@ -276,7 +276,7 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
       "playerType": 2
     },
     {
@@ -284,14 +284,14 @@
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz"
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz"
     },
     {
       "name": "土豆电视 速度快",
       "type": 0,
       "url": "https://13868.kstore.space/ysj/ext/tdzb.txt",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
       "timeout": 10
     },
     {
@@ -299,7 +299,7 @@
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://epg.pw/xmltv/epg_CN.xml.gz",
+      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
       "timeout": 10
     },
     {
