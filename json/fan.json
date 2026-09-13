@@ -57,31 +57,6 @@
       "changeable": 1
     },
     {
-      "key": "海绵",
-      "name": "🐬海绵┃不卡",
-      "type": 3,
-      "api": "csp_HmysGuard",
-      "timeout": 10,
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "立播",
-      "name": "🌟立播┃不卡",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "siteUrl": "https://www.libvio.pw/"
-      }
-    },
-    {
       "key": "瓜子",
       "name": "👀瓜子┃不卡",
       "type": 3,
@@ -245,7 +220,7 @@
         "ratio": 1.597
       },
       "timeout": 15,
-      "playerType": "2",
+      "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -430,7 +405,7 @@
   "ijk": [],
   "spider": "https://18006.kstore.space/spider/fan-spider.jar",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
-  "notice": "自用自存不商用 260826",
+  "notice": "自用自存不商用 260913",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
     "fiizvfck.top=fan.cloudflare.182682.xyz",
