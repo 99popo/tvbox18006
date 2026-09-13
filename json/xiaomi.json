@@ -41,6 +41,59 @@
       }
     },
     {
+      "key": "AiKan_Spider",
+      "name": "🚀秒播┃爱看剧场",
+      "type": 3,
+      "api": "csp_AiKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.117.123:4680"
+    },
+    {
+      "key": "HkybSpider",
+      "name": "🚀秒播┃世界影视",
+      "type": 3,
+      "api": "csp_HkybSpider",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
+      "key": "壹影视",
+      "name": "🚀秒播┃壹哥影视",
+      "type": 3,
+      "api": "csp_YiYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "爱影视",
+      "name": "👀爱影┃热门4K",
+      "type": 3,
+      "api": "csp_WhaleApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      }
+    },
+    {
+      "key": "Yimi",
+      "name": "👀咕噜┃热门4K",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+    {
       "key": "4K影视",
       "name": "🌾热门┃低版4K",
       "type": 3,
@@ -450,6 +503,6 @@
   "ijk": [],
   "spider": "https://18006.kstore.space/spider/xiaomi-spider.jar",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
-  "notice": "自存不商用 260824",
+  "notice": "自存不商用 260904 初步检测",
   "logo": "https://18006.kstore.space/logo2.jpg"
 }
