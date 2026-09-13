@@ -49,6 +49,56 @@
       }
     },
     {
+      "key": "FuYun",
+      "name": "☁️┆浮云┆4K",
+      "type": 3,
+      "api": "csp_FuYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "AT5gVJoBJLBjA8bGv16T3JrqN2LXBIOz+yh3i+Q62mrf39gRwFyDvBsZFicI+C39mJcLm9J7qY/293gromRPJAf+9zAbwWTtKnR5Ums7P1Q5ts6eqP1gLc/RID4P3Mia9LSNqOxWJ8U9XZRYJl6gdtnZo7oR8T8JMWvWFVZzu5pAGSlzcJxMzqaVrWaPTrC3x790BI+cfF1ogCKAwNaVQxU="
+    },
+    {
+      "key": "花信",
+      "name": "🌼┆花信┆4K",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "huaxin"
+      }
+    },
+    {
+      "key": "素笺",
+      "name": "📜┆素笺┆4K",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "sujian"
+      }
+    },
+    {
+      "key": "丹青",
+      "name": "🖌️┆丹青┆4K",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "danqing"
+      }
+    },
+    {
       "key": "VideoX",
       "name": "小北┆云视 羊壳快",
       "type": 3,
@@ -74,13 +124,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
-    },
-    {
-      "key": "长泽",
-      "name": "😗┆长泽┆4K",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
     },
     {
       "key": "zhiqiu",
@@ -153,6 +196,97 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://max.moyu666666.top/app3q.php?site=yd"
+    },
+    {
+      "key": "茶寮",
+      "name": "🍵┆茶寮┆慢",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "chaliao"
+      }
+    },
+    {
+      "key": "栖桐",
+      "name": "🌳┆栖桐┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "qitong"
+      }
+    },
+    {
+      "key": "竹隐",
+      "name": "🎋┆竹隐┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "zhuyin"
+      }
+    },
+    {
+      "key": "玉阶",
+      "name": "🏛️┆玉阶┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "yujie"
+      }
+    },
+    {
+      "key": "香篆",
+      "name": "🪔┆香篆┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "xiangzhu"
+      }
+    },
+    {
+      "key": "松庭",
+      "name": "🌲┆松庭┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "songting"
+      }
+    },
+    {
+      "key": "墨砚",
+      "name": "🖋️┆墨砚┆APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "php": "https://max.moyu666666.top/niulai.php",
+        "site": "moyan"
+      }
     },
     {
       "key": "弦歌",
@@ -346,13 +480,6 @@
       "ext": "https://max.moyu666666.top/fanshu.php"
     },
     {
-      "key": "双星",
-      "name": "✨┆双星┆动漫",
-      "type": 3,
-      "api": "csp_App88",
-      "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
-    },
-    {
       "key": "XgAnime",
       "name": "🍉┆西瓜┆很慢",
       "type": 3,
@@ -430,7 +557,7 @@
     },
     {
       "key": "Kanqiu",
-      "name": "⚽┆看球┆体育",
+      "name": "⚽┆看球┆不稳",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 0,
@@ -771,6 +898,6 @@
   "spider": "https://18006.kstore.space/spider/fish-spider.jar",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "notice": "自存不商用 260824",
+  "notice": "自存不商用 260904大改 初步检测",
   "logo": "https://18006.kstore.space/logo2.jpg"
 }
