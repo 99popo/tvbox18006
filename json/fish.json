@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "摸鱼儿自改自用 覆盖爬虫",
+      "name": "【废弃中】摸鱼儿 覆盖爬虫",
       "type": 3,
       "api": "csp_PianDan",
       "indexs": 1,
@@ -49,19 +49,8 @@
       }
     },
     {
-      "key": "FuYun",
-      "name": "☁️┆浮云┆4K",
-      "type": 3,
-      "api": "csp_FuYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "AT5gVJoBJLBjA8bGv16T3JrqN2LXBIOz+yh3i+Q62mrf39gRwFyDvBsZFicI+C39mJcLm9J7qY/293gromRPJAf+9zAbwWTtKnR5Ums7P1Q5ts6eqP1gLc/RID4P3Mia9LSNqOxWJ8U9XZRYJl6gdtnZo7oR8T8JMWvWFVZzu5pAGSlzcJxMzqaVrWaPTrC3x790BI+cfF1ogCKAwNaVQxU="
-    },
-    {
       "key": "花信",
-      "name": "🌼┆花信┆4K",
+      "name": "🌼┆花信┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -74,7 +63,7 @@
     },
     {
       "key": "素笺",
-      "name": "📜┆素笺┆4K",
+      "name": "📜┆素笺┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -87,7 +76,7 @@
     },
     {
       "key": "丹青",
-      "name": "🖌️┆丹青┆4K",
+      "name": "🖌️┆丹青┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -97,15 +86,6 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "danqing"
       }
-    },
-    {
-      "key": "VideoX",
-      "name": "小北┆云视 羊壳快",
-      "type": 3,
-      "api": "csp_VideoX",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
     },
     {
       "key": "huaisang",
@@ -124,22 +104,6 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
-    },
-    {
-      "key": "zhiqiu",
-      "name": "☘️┆听风┆知秋",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
-    },
-    {
-      "key": "fishhxq",
-      "name": "💃┆韩圈┆影视",
-      "type": 3,
-      "api": "csp_FishHxq",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/fishhxq.php"
     },
     {
       "key": "Kan360",
@@ -188,16 +152,6 @@
       "ext": "https://max.moyu666666.top/app3q.php?site=mh"
     },
     {
-      "key": "云朵影视",
-      "name": "☁️┆云朵┆APP",
-      "type": 3,
-      "api": "csp_App3Q",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://max.moyu666666.top/app3q.php?site=yd"
-    },
-    {
       "key": "茶寮",
       "name": "🍵┆茶寮┆慢",
       "type": 3,
@@ -212,7 +166,7 @@
     },
     {
       "key": "栖桐",
-      "name": "🌳┆栖桐┆APP",
+      "name": "🌳┆栖桐┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -225,7 +179,7 @@
     },
     {
       "key": "竹隐",
-      "name": "🎋┆竹隐┆APP",
+      "name": "🎋┆竹隐┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -238,7 +192,7 @@
     },
     {
       "key": "玉阶",
-      "name": "🏛️┆玉阶┆APP",
+      "name": "🏛️┆玉阶┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -251,7 +205,7 @@
     },
     {
       "key": "香篆",
-      "name": "🪔┆香篆┆APP",
+      "name": "🪔┆香篆┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -264,7 +218,7 @@
     },
     {
       "key": "松庭",
-      "name": "🌲┆松庭┆APP",
+      "name": "🌲┆松庭┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -277,7 +231,7 @@
     },
     {
       "key": "墨砚",
-      "name": "🖋️┆墨砚┆APP",
+      "name": "🖋️┆墨砚┆慢",
       "type": 3,
       "api": "csp_NiuLai",
       "searchable": 1,
@@ -290,7 +244,7 @@
     },
     {
       "key": "弦歌",
-      "name": "🎶┆弦歌┆APP",
+      "name": "🎶┆弦歌┆稍慢",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -300,7 +254,7 @@
     },
     {
       "key": "怀瑾",
-      "name": "💎┆怀瑾┆APP",
+      "name": "💎┆怀瑾┆稍慢",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -310,7 +264,7 @@
     },
     {
       "key": "疏影",
-      "name": "🌺┆疏影┆APP",
+      "name": "🌺┆疏影┆稍慢",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -319,18 +273,8 @@
       }
     },
     {
-      "key": "清沅",
-      "name": "💧┆清沅┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": {
-        "php": "https://max.moyu666666.top/appun.php",
-        "playname": "qy"
-      }
-    },
-    {
       "key": "观澜",
-      "name": "🎞️┆观澜┆APP",
+      "name": "🎞️┆观澜┆稍慢",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -340,7 +284,7 @@
     },
     {
       "key": "南枝",
-      "name": "🌱┆南枝┆APP",
+      "name": "🌱┆南枝┆慢",
       "api": "csp_AppUn",
       "type": 3,
       "ext": {
@@ -360,7 +304,7 @@
     },
     {
       "key": "Wwys",
-      "name": "🍙┆糯米┆影视",
+      "name": "🍙┆糯米┆快",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -370,7 +314,7 @@
     },
     {
       "key": "CZ",
-      "name": "🏭┆厂长┆影视",
+      "name": "🏭┆厂长┆稍慢",
       "type": 3,
       "api": "csp_CZ",
       "searchable": 1,
@@ -392,7 +336,7 @@
     },
     {
       "key": "wencai",
-      "name": "✏️┆文才┆影视",
+      "name": "✏️┆文才┆快",
       "type": 3,
       "api": "csp_WenCai",
       "searchable": 1,
@@ -431,21 +375,6 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
-    },
-    {
-      "key": "HonHon",
-      "name": "🍅┆红红┆短剧",
-      "type": 3,
-      "api": "csp_HonHon",
-      "searchable": 1,
-      "quickSearch": 1,
-      "genre": "shortdrama",
-      "filterable": 1,
-      "ext": {
-        "host": "https://short.fishcloud.top",
-        "quality": "1080p",
-        "danmu": false
-      }
     },
     {
       "key": "DJHub",
@@ -487,16 +416,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Manbo",
-      "name": "🕺┆曼波┆无图",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
     },
     {
       "key": "Gugu",
@@ -554,19 +473,6 @@
       "filterable": 1,
       "playerType": 3,
       "changeable": 1
-    },
-    {
-      "key": "Kanqiu",
-      "name": "⚽┆看球┆不稳",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 0,
-      "filterable": 1,
-      "indexs": 0,
-      "ext": "http://www.88kanqiu.one",
-      "style": {
-        "type": "list"
-      }
     },
     {
       "key": "Sir88",
@@ -631,14 +537,6 @@
   ],
   "parses": [],
   "lives": [
-    {
-      "name": "superiptv 小云",
-      "type": 1,
-      "url": "http://127.0.0.1:5266/iptv.m3u",
-      "playerType": 2,
-      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz"
-    },
     {
       "name": "47.120.41.246 速度快",
       "type": 0,
@@ -898,6 +796,6 @@
   "spider": "https://18006.kstore.space/spider/fish-spider.jar",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "notice": "自存不商用 260904大改 初步检测",
+  "notice": "自存不商用 260918大删 失效初步检测",
   "logo": "https://18006.kstore.space/logo2.jpg"
 }
