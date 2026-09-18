@@ -50,39 +50,7 @@
       "filterable": 1,
       "ext": "http://43.248.117.123:4680"
     },
-    {
-      "key": "HkybSpider",
-      "name": "🚀秒播┃世界影视",
-      "type": 3,
-      "api": "csp_HkybSpider",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "壹影视",
-      "name": "🚀秒播┃壹哥影视",
-      "type": 3,
-      "api": "csp_YiYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "爱影视",
-      "name": "👀爱影┃热门4K",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
+   
     {
       "key": "Yimi",
       "name": "👀咕噜┃热门4K",
@@ -93,15 +61,7 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "4K影视",
-      "name": "🌾热门┃低版4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
+    
     {
       "key": "半日99",
       "name": "☀️半日┃热门影视",
@@ -134,38 +94,28 @@
       "quickSearch": 0,
       "api": "csp_Gz360"
     },
-    {
-      "key": "布布影视APP",
-      "name": "🌺大鹅┃高清影视",
-      "type": 3,
-      "api": "csp_AppYd",
-      "ext": {
-        "host": "https://bubutv.top",
-        "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
-        "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.sunshine.tv",
-        "sk": "SK-thanks",
-        "ver": "6"
-      }
-    },
-    {
-      "key": "云朵影视APP",
-      "name": "🌺云朵┃TC+4K",
-      "type": 3,
-      "api": "csp_AppYd",
-      "ext": {
-        "host": "https://ds3xy2yunsa.xyz",
-        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.tvcloud.io",
-        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-        "ver": "1"
-      }
-    },
+   {
+"key": "苹果",
+"name": "🍎苹果┃+电视",
+"type": 3,
+"api": "csp_AppDrama",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {
+"appName": "小苹果",
+"commonKey": "ed5fdsgucxumegqa",
+"publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+"dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+"dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+"pkg": "com.juechufsh.android.xpg1",
+"host": "",
+"site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+"version": "1.0.0.3",
+"decrypt": "1"
+}
+},
+  
     {
       "key": "枫叶影视",
       "name": "🍁枫叶┃嗅探+自营",
@@ -176,39 +126,7 @@
       "filterable": 0,
       "ext": "https://www.vip1949.com/"
     },
-    {
-      "key": "双星99",
-      "name": "🥪双星┃热门动漫",
-      "type": 3,
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
-    {
-      "key": "稀饭动漫[APP]",
-      "name": "🍚稀饭┃换线",
-      "type": 3,
-      "api": "csp_CycSpider",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tangsan.fun/config.php?source=xifan"
-    },
-    {
-      "key": "csp_duanju",
-      "name": "🔥盒马┃精选短剧",
-      "type": 3,
-      "timeout": 12,
-      "api": "csp_HeMa"
-    },
+  
     {
       "key": "csp_XY",
       "name": "🌟星丫┃精选短剧",
@@ -220,7 +138,7 @@
     },
     {
       "key": "88看球",
-      "name": "⚽叭叭┃体育？",
+      "name": "⚽叭叭┃体育",
       "type": 3,
       "api": "csp_Kanqiu",
       "style": {
@@ -278,27 +196,7 @@
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
-    {
-      "key": "橘汁",
-      "name": "橘汁┃高清影视",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "commonKey": "ed5fdsgucxumegqa",
-        "pkg": "com.lxf.snzlcgtzxyx",
-        "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.1",
-        "decrypt": "1"
-      }
-    },
+   
     {
       "key": "csp_Jpys",
       "name": "🥇金牌┃高清影视",
@@ -381,11 +279,7 @@
         }
       }
     },
-    {
-      "name": "🌃解析┃夜幕专线",
-      "type": 0,
-      "url": ""
-    },
+   
     {
       "name": "HLS-虾米2",
       "type": 0,
@@ -399,7 +293,7 @@
   ],
   "lives": [
     {
-      "name": "47.120.41.246 速度快",
+      "name": "47影视仓 速度快",
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
@@ -414,7 +308,7 @@
       "timeout": 10
     },
     {
-      "name": "土豆-简单EasyTVbox 快 多地",
+      "name": "简单EasyTVbox 快多地",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
@@ -503,6 +397,6 @@
   "ijk": [],
   "spider": "https://18006.kstore.space/spider/xiaomi-spider.jar",
   "wallpaper": "https://www.wexwp.cc/bizhi.php",
-  "notice": "自存不商用 260904 初步检测",
+  "notice": "自存不商用 260904 0918大删改",
   "logo": "https://18006.kstore.space/logo2.jpg"
 }
