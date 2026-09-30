@@ -200,8 +200,14 @@
       }
     },
     {
+      "key": "采集",
+      "name": "👖采集",
+      "type": 3,
+      "api": "https://jsnz.pages.dev/f/72b7239d.py"
+    },
+    {
       "key": "alllive",
-      "name": "🎮一直播┃直播 很慢",
+      "name": "🎮一直播┃直播",
       "type": 3,
       "api": "csp_AllliveGuard",
       "style": {
@@ -216,8 +222,8 @@
       "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
     },
     {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
+      "key": "Bili CHANGE",
+      "name": "🅱哔哔合集┃弹幕-实验",
       "type": 3,
       "api": "csp_BiliGuard",
       "style": {
@@ -228,7 +234,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+        "type": "时政#纪录片#影视#知识#",
+        "cookie": ""
       }
     }
   ],
@@ -240,7 +247,13 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
+      "epg": "https://epg.catvod.com/epg.xml",
+      "playerType": 2
+    },
+    {
+      "name": "Kimentanm EXO播放器",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
@@ -248,30 +261,30 @@
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz"
+      "epg": "https://epg.catvod.com/epg.xml"
     },
     {
       "name": "土豆电视 速度快",
       "type": 0,
       "url": "https://13868.kstore.space/ysj/ext/tdzb.txt",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
+      "epg": "https://epg.catvod.com/epg.xml",
       "timeout": 10
     },
     {
       "name": "EasyTVbox 快 多地",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+      "url": "https://easyzz.dpdns.org/api/tv.png",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "timeout": 10
     },
     {
-      "name": "易发yiyifaf 快 多国+点播",
-      "type": 1,
+      "name": "易发 快 多国+点播",
+      "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://tv.mxdyeah.top/epgphp/t.xml",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "timeout": 10
     },
     {
@@ -394,7 +407,7 @@
   "ijk": [],
   "spider": "https://18006.kstore.space/spider/fan-spider.jar",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
-  "notice": "自用自存不商用 260918",
+  "notice": "自用自存不商用 260930",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
     "fiizvfck.top=fan.cloudflare.182682.xyz",
