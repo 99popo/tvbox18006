@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "小米自改 更新覆盖",
+      "name": "小米自改 原版跑路",
       "type": 3,
       "quickSearch": 0,
       "filterable": 1,
@@ -39,16 +39,6 @@
         "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
       }
-    },
-    {
-      "key": "AiKan_Spider",
-      "name": "🚀秒播┃爱看剧场",
-      "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "Yimi",
@@ -291,22 +281,22 @@
       "type": 0,
       "url": "http://47.120.41.246:8025/vip/jar/zb.php",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz"
+      "epg": "https://epg.zsdc.eu.org/t.xml"
     },
     {
       "name": "土豆电视 速度快",
       "type": 0,
       "url": "https://13868.kstore.space/ysj/ext/tdzb.txt",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "timeout": 10
     },
     {
       "name": "简单EasyTVbox 快多地",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/EasyXC/EasyTVbox/main/api/tv.png",
+      "url": "https://easyzz.dpdns.org/api/tv.png",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "epg": "https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz",
+      "epg": "https://epg.zsdc.eu.org/t.xml",
       "timeout": 10
     }
   ],
