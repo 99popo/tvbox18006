@@ -26,13 +26,17 @@ http://www.饭太硬.net/tv
 
 源接口地址为：
 
-http://www.小不点.com 
+``http://www.小不点.com ``
 
-（摸鱼儿.cc）https://xn--v4q818bf34b.cc/ 
+``（摸鱼儿.cc）https://xn--v4q818bf34b.cc/ ``
+
+http://我不是.摸鱼儿.cc
+
+http://fish.y456y.com/
 
 格外添加内容有：个别live
 
-**源网站失效，20260902spider能正常运行的接口，整理成最终版待废弃**
+**变更接口**
 
 
 ## 命名为：xiaomi.json
@@ -51,3 +55,4 @@ https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/
 
 格外添加内容有：个别live
 
+**源接口跑路**
