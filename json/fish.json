@@ -89,16 +89,6 @@
       "ext": "AU08qHcswQQ9GUNUYMdLgyq8HzPCy1gUxku0nrQgOwfSJrT0LgwdrXoWPVK+x4n+QQ8KbuVPdzA5/U2YL7fQmH8="
     },
     {
-      "key": "xiaozuo",
-      "name": "🍃┆等风┆4K",
-      "type": 3,
-      "api": "csp_DengFeng",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0="
-    },
-    {
       "key": "KanJu",
       "name": "🎬┆流映┆4K",
       "type": 3,
@@ -468,13 +458,6 @@
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
       "epg": "",
       "timeout": 10
-    },
-    {
-      "name": "土豆-简单EasyTVbox 快 多地",
-      "type": 0,
-      "url": "https://easyzz.dpdns.org/api/tv.png",
-      "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
-      "timeout": 10
     }
   ],
   "doh": [],
@@ -703,6 +686,6 @@
   "spider": "https://18006.kstore.space/spider/fish-spider.jar",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "notice": "自存不商用 261101",
+  "notice": "自存不商用 261113",
   "logo": "https://18006.kstore.space/logo2.jpg"
 }
