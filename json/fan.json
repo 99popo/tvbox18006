@@ -33,7 +33,7 @@
     },
     {
       "key": "瓜子",
-      "name": "👀瓜子┃不卡",
+      "name": "👀瓜子|广告有声音",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
@@ -312,7 +312,7 @@
     {
       "name": "EasyTVbox 多地",
       "type": 0,
-      "url": "https://easyzz.dpdns.org/api/tv.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg",
       "logo": "https://gh-proxy.com/http://raw.githubusercontent.com/99popo/tv-live/main/icon/{name}.png",
       "epg": "https://epg.zsdc.eu.org/t.xml",
       "timeout": 10
@@ -437,7 +437,7 @@
   "ijk": [],
   "spider": "https://18006.kstore.space/spider/fan-spider.jar",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
-  "notice": "自用自存不商用 261103",
+  "notice": "自用自存不商用 261113",
   "hosts": [
     "img1.wsyzy.org=cmcc.vvvv.ee",
     "fiizvfck.top=cmcc.vvvv.ee",
